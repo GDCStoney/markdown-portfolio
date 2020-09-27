@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Gareth Stoney
+### This is a test of markup headers
